@@ -13,12 +13,12 @@
             <li class="nav-item">
               <a class="nav-link" href="/">Home </a>
             </li>
-            <li class="nav-item active">
+            <li class="nav-item ">
               <a class="nav-link" href="/about">About <span class="sr-only">(current)</span></a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item active">
                     <a class="nav-link" href="/develop">Develop<span class="sr-only">(current)</span></a>
-                  </li>
+            </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Dropdown
@@ -41,12 +41,22 @@
         </div>
       </nav>
 @section('content')
-<h1 class='text-center'>FURNITURE</h1>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae, similique id! Assumenda adipisci
-     molestias eveniet temporibus maxime. Aperiam perspiciatis amet labore quam, aliquid a atque, 
-     praesentium illum hic et, blanditiis.</p>
-@endsection
-
-@section('js')
-
+<h3 class='text-center'>About Developer</h3><br>
+<div class="card-text-center" style="width: 30rem;">
+        <img class="card-img-center" src="https://pbs.twimg.com/profile_images/939361952358215680/3J_KIc8T_400x400.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Cras justo odio</li>
+          <li class="list-group-item">Dapibus ac facilisis in</li>
+          <li class="list-group-item">Vestibulum at eros</li>
+        </ul>
+        <div class="card-body">
+          <a href="https://www.linkedin.com/in/sugeng-kurniawan" class="card-link">linkedin</a>
+          <a href="#" class="card-link">Another link</a>
+        </div>
+      </div>
+      
 @endsection

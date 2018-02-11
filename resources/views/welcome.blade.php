@@ -16,6 +16,9 @@
             <li class="nav-item">
               <a class="nav-link" href="/about">About</a>
             </li>
+            <li class="nav-item">
+                    <a class="nav-link" href="/develop">Develop<span class="sr-only">(current)</span></a>
+            </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Dropdown
@@ -68,8 +71,12 @@
 {{--  JUMBOTRON  --}}
 <div class="jumbotron jumbotron-fluid">
         <div class="container">
-          <h1 class="display-4">Fluid jumbotron</h1>
-          <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+          <h1 class="display-4">Furniture Fluid jumbotron</h1>
+          <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae, similique id! Assumenda adipisci
+                molestias eveniet temporibus maxime. Aperiam perspiciatis amet labore quam, aliquid a atque, 
+                praesentium illum hic et, blanditiis.
+          </p>
         </div>
 </div>
 @endsection
