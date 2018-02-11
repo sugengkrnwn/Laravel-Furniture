@@ -17,6 +17,3 @@ Route::get('/', function () {
 Route::get('/about', function () {
     return view('about');
 });
-Route::get('/develop', function () {
-    return view('develop');
-});
