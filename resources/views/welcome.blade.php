@@ -69,7 +69,7 @@
 {{--  JUMBOTRON  --}}
 <div class="jumbotron jumbotron-fluid">
         <div class="container">
-          <h1 class="display-4">Furniture Fluid jumbotron</h1>
+          <h4 class="display-4">Furniture</h4>
           <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae, similique id! Assumenda adipisci
                 molestias eveniet temporibus maxime. Aperiam perspiciatis amet labore quam, aliquid a atque, 
