@@ -70,10 +70,10 @@
 <div class="jumbotron jumbotron-fluid">
         <div class="container">
           <h4 class="display-4">Furniture</h4>
-          <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae, similique id! Assumenda adipisci
-                molestias eveniet temporibus maxime. Aperiam perspiciatis amet labore quam, aliquid a atque, 
-                praesentium illum hic et, blanditiis.
+          <p class="lead">Hunian yang nyaman menjadikan suasana berkumpul bersama keluarga
+             lebih menyenangkan. Tentunya kenyamanan tersebut didukung dengan sofa, meja,
+              kursi dan furnitur outdoor yang berkualitas dan bermutu tinggi. Dapatkan 
+              & nikmati momen terbaik bersama keluarga dengan furniture eksklusif 
           </p>
         </div>
 </div>
